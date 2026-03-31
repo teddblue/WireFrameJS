@@ -1,3 +1,10 @@
+This can render wireframe polygons from a .obj file using html.\
+To load an obj file:\
+1) open your obj file in a text editor (you may have to add ".txt" to the end of the file name\
+2) copy all the text from the file and paste it into the text box below the 3d view\
+3) click the "import" button\
+Note: the first imported object will barrel-roll away to show off model distinction, model movement, and model rotation\
+\
 WireFrame JS is a project I originally made from scratch in Pencilcode (with help from documentation and forums). It can be found here: http://share.pencilcode.net/home/xzyat-teddblue-Wireframe. I rewrote the code from the ground up in javascript canvas so it can run faster.\
 \
 In this version, multiple models can be displayed at a time. The second visible model will barrel-roll away slowly to show off model movement and rotation.
